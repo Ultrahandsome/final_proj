@@ -1,0 +1,8 @@
+### Get dashboard statistics data
+# curl http://localhost:38080/api/dashboard
+GET http://localhost:38080/api/dashboard
+
+###
+
+
+

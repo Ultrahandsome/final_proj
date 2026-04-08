@@ -1,0 +1,124 @@
+### Find all comments: no categories specified
+# Returns all comments in MongoDB
+# curl -X POST -H "Content-Type: application/json" -d '{
+#  "page": 1,
+#  "limit": 10,
+#  "categories": []
+#}' http://localhost:38080/comments
+POST http://localhost:38080/comments
+Content-Type: application/json
+
+{
+  "page": 1,
+  "limit": 10,
+  "categories": []
+}
+
+### Find comments filtered by categories
+# curl -X POST -H "Content-Type: application/json" -d '{
+#  "page": 1,
+#  "limit": 10,
+#  "categories": ["Not Processed"]
+#}' http://localhost:38080/comments
+POST http://localhost:38080/comments
+Content-Type: application/json
+
+{
+  "page": 1,
+  "limit": 10,
+  "categories": [
+    "Not Processed"
+  ]
+}
+
+### Import CSV file
+
+# curl -F "file=@/Users/ada/Develop/UNSW/25T1/9900/test_csv.csv" http://localhost:38080/upload/csv
+POST http://localhost:38080/upload/csv
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="test_csv.csv"
+
+< ./test/test_csv.csv
+--WebAppBoundary--
+
+### Import Excel XLSX file
+
+# curl -F "file=@/Users/ada/Develop/UNSW/25T1/9900/P14_commentsdata_sample_v1.xlsx" http://localhost:38080/upload/excel
+POST http://localhost:38080/upload/excel
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="P14_commentsdata_sample_v1.xlsx"
+
+< ./test/P14_commentsdata_sample_v1.xlsx
+--WebAppBoundary--
+
+### Export all comments to Excel xlsx file
+# curl -X POST -H "Content-Type: application/json" -d '{
+#   "ids": []
+# }' http://localhost:8080/export/excel -o comments.xlsx
+POST http://localhost:38080/export/excel
+Content-Type: application/json
+
+{
+  "ids": []
+}
+
+### Export selected comments to Excel xlsx file
+# curl -X POST -H "Content-Type: application/json" -d '{
+#   "ids": ["67f32745183a6375438cf497"]
+# }' http://localhost:8080/export/excel -o comments.xlsx
+POST http://localhost:38080/export/excel
+Content-Type: application/json
+
+{
+  "ids": ["67f32745183a6375438cf497"]
+}
+
+### Export all comments to CSV file
+# curl -X POST -H "Content-Type: application/json" -d '{
+#   "ids": []
+# }' http://localhost:8080/export/csv -o comments.csv
+POST http://localhost:38080/export/csv
+Content-Type: application/json
+
+{
+  "ids": []
+}
+
+### Export selected comments to CSV file
+# curl -X POST -H "Content-Type: application/json" -d '{
+#   "ids": ["67f32745183a6375438cf497"]
+# }' http://localhost:8080/export/csv -o comments.csv
+POST http://localhost:38080/export/csv
+Content-Type: application/json
+
+{
+  "ids": ["67f32745183a6375438cf497"]
+}
+
+### Get all categories
+# curl http://localhost:38080/categories
+GET http://localhost:38080/api/categories
+
+### Overwrite comment category (requires login)
+# curl -X POST
+#    -H "Content-Type: application/json"
+#    -H "X-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDQ4ODAwMDksImlkIjoiNjdmZjViODJkZGI5MThjNjY5NzQ2Y2M4Iiwicm9sZSI6IkFkbWluIiwidXNlcm5hbWUiOiJhZG1pbiJ9.PiqPwMfsnquv0J0VIpiTj2yyh2THTJSDe43kJFAAx0A"
+#    -d '{"id": "67fdd072a7c6b534905b9c97", "category": "Test", "comment": "Test Comment"}' http://localhost:38080/comment/category
+POST http://localhost:38080/comment/category
+X-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDQ4ODAwMDksImlkIjoiNjdmZjViODJkZGI5MThjNjY5NzQ2Y2M4Iiwicm9sZSI6IkFkbWluIiwidXNlcm5hbWUiOiJhZG1pbiJ9.PiqPwMfsnquv0J0VIpiTj2yyh2THTJSDe43kJFAAx0A
+Content-Type: application/json
+
+{
+  "id": "67fdd072a7c6b534905b9c97",
+  "category": "Test",
+  "comment": "Test Comment"
+}
+
+###
+
+
+

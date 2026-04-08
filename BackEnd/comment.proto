@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+option go_package = "internal/rpcapi";
+
+package rpcapi;
+
+// RawComment is the original comments information required by AI module for classification
+message RawComment {
+  string id = 1; // MongoDB ObjectID
+  string rawComment = 2; // Comment content
+}
+
+// ClassifiedComment is the classified comments with category and confidence score provided by AI module
+message ClassifiedComment {
+  string id = 1; // MongoDB ObjectID
+  string label = 2; // AI-generated category
+  float score = 3; // Confidence score
+  repeated string similarComment = 4; // Array of content of similar comments
+  repeated string keywords = 5;
+}
+
+// RawComments is array of original comments information
+message RawComments {
+  repeated RawComment comments = 1;
+}
+
+// ClassifiedComments is array of classified comments
+message ClassifiedComments {
+  repeated ClassifiedComment comments = 1;
+}
+
+service CommentClassifier {
+  // ClassifyComments takes array of RawComment as input, and provide multiple arrays of ClassifiedComments as output
+  rpc ClassifyComments(RawComments) returns (stream ClassifiedComments);
+}

@@ -1,0 +1,4004 @@
+{
+  "comments": [
+    {
+      "comment": "The parking is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved History, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fantastic experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "Professor Smith is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Music could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms needs attention, it's outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The campus needs attention, it's boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Martinez is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Science could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Math that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Rodriguez is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Miller is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Music that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Math, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The dorms is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Science.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a great experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about History, it was unremarkable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Brown is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a amazing experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones's favoritism is boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a excellent experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Psychology could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fun experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Science, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'll lose it if Garcia doesn't explain better.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The facilities is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Philosophy, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library needs attention, it's poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The wifi is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Art, it was average.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The gym needs attention, it's terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The facilities is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Math, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Math, it was okay.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Music, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fantastic experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The labs is crap.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "Professor Garcia is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams's favoritism is terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Art could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Philosophy that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Music, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson's favoritism is frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Art, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'll lose it if Smith doesn't explain better.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The Sociology could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could kill for a better library.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The parking is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could kill for a better wifi.",
+      "category": "Violent"
+    },
+    {
+      "comment": "There was an incident in Math that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a excellent experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Math, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a great experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a great experience in Science.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Science, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Music, it was standard.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The parking is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fun experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The English could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Science seems useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Art, it was so amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a informative experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Economics, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a informative experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Art could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Science.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Psychology could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The English could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Music, it was so amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course is damn terrible.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The facilities is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The Music could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The facilities is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Miller's favoritism is poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Sociology, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Math could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fantastic experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus needs attention, it's irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Economics could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in History seems confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Sociology could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Philosophy, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved History, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "What the hell is wrong with Art?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The wifi needs attention, it's boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Sociology could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Music, it was mediocre.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Science, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Art could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms needs attention, it's boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Jones is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in English seems irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Johnson's favoritism is disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course is damn useless.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I had a wonderful experience in Science.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The facilities is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in English seems confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Davis's favoritism is boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The grading in Math seems confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The parking needs attention, it's frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Garcia is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Music seems poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I'm not sure about Music, it was okay.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Martinez is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library needs attention, it's poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "Professor Davis's favoritism is disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved English, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Psychology, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a amazing experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm so tired of this bullshit campus.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The Sociology could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Psychology, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi needs attention, it's frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Science could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Music, it was average.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The classrooms is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in History seems boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The wifi is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Science could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez's favoritism is boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Philosophy, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm so tired of this bullshit library.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I loved English, it was so wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm so tired of this bullshit labs.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I had a inspiring experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Psychology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Science could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia's favoritism is frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Sociology could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Economics that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The grading in Science seems boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The History could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Smith is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is crap.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I'm not sure about Music, it was normal.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I'm not sure about History, it was standard.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Math could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez's favoritism is disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The parking is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Art, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The homework is a pain in the ass.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The cafeteria is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Psychology could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Philosophy could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Science seems frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I'll lose it if Williams doesn't explain better.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I had a amazing experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Psychology, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Math seems terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "What the hell is wrong with Math?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "There was an incident in English that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The classrooms is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a excellent experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Economics that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Garcia is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi needs attention, it's irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Math, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a informative experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "If the parking doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The library is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The facilities is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a excellent experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Psychology, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in Science.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Art could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Math, it was mediocre.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Music that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Garcia's favoritism is disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a wonderful experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fantastic experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a excellent experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course is damn disappointing.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The English could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "What the hell is wrong with History?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I had a great experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Smith is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Science could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Music that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course is damn boring.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The dorms is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Sociology could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The homework is a pain in the ass.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "Professor Davis is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Music, it was decent.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Math, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The facilities needs attention, it's frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Psychology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Brown is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Art seems boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Math could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Philosophy, it was so amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "What the hell is wrong with Science?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I'm so tired of this bullshit campus.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The gym needs attention, it's useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Art, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "There was an incident in English that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Garcia is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms needs attention, it's terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Smith is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia's favoritism is poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Smith is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones's favoritism is poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved English, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in History seems frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The cafeteria is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Math could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Psychology, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in English that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The labs is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Philosophy seems disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I'm so tired of this bullshit parking.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The labs needs attention, it's boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The gym needs attention, it's poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The grading in Economics seems terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The homework is a pain in the ass.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The grading in Math seems terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a interesting experience in Science.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking needs attention, it's poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Math, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could kill for a better parking.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I loved History, it was so amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "Professor Davis's favoritism is boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Science, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Sociology, it was unremarkable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The grading in Art seems useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "If the cafeteria doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I loved English, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones's favoritism is disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Jones is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Philosophy that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Psychology, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a amazing experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a excellent experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved History, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in History seems irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Williams is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "What the hell is wrong with English?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The Music could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Science that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Music could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym needs attention, it's boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Smith is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a great experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I'll lose it if Johnson doesn't explain better.",
+      "category": "Violent"
+    },
+    {
+      "comment": "Professor Brown is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Art could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fun experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Music, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Psychology seems poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Science, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about History, it was acceptable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Science that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Garcia is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Miller is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Sociology could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Economics, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Sociology could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a amazing experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a informative experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The homework is a pain in the ass.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "There was an incident in Math that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Davis is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Science could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Music seems frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Philosophy could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria needs attention, it's confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Davis is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The English could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Music could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in English seems disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Art, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved History, it was so amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Science, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a amazing experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Science could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a great experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Psychology seems poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Johnson is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown's favoritism is boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "There was an incident in Science that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I'm so tired of this bullshit wifi.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The Music could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Art, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms needs attention, it's frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Music that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Economics could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Sociology, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in History seems useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The classrooms is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus needs attention, it's useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I'm so tired of this bullshit wifi.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The Sociology could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fantastic experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fantastic experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Philosophy that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Johnson is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Sociology, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Math, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Smith is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I loved English, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Psychology could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Science could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Psychology could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Miller is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Philosophy could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Music that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Psychology could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "If the campus doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "What the hell is wrong with Math?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "If the campus doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I'm not sure about Music, it was typical.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "If the wifi doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I had a fantastic experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym needs attention, it's terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a fun experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones's favoritism is frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Brown's favoritism is frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a amazing experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The labs is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Science, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in History that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a excellent experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria needs attention, it's boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Davis is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus needs attention, it's terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a excellent experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The facilities is crap.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "There was an incident in History that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The campus is crap.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The labs is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Philosophy could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms needs attention, it's disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a engaging experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Art, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson's favoritism is outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Davis is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I could kill for a better library.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The campus needs attention, it's awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Sociology, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Psychology could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Music, it was fine.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I could kill for a better library.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The Science could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Music, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs needs attention, it's irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "If the wifi doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "Professor Brown is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Sociology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a excellent experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson's favoritism is disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Brown is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Science could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Philosophy that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Music could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis's favoritism is useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Miller's favoritism is boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Psychology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Art could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Science, it was so wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Sociology, it was normal.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a amazing experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about English, it was acceptable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a engaging experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Economics, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Miller is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fun experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The facilities is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Psychology could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The campus is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Music could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a amazing experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Math seems confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Williams is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a informative experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course is damn boring.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I loved English, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "There was an incident in Psychology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved English, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'll lose it if Martinez doesn't explain better.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I had a fantastic experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms needs attention, it's poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Economics could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Philosophy could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Math, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Psychology, it was average.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The wifi is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis's favoritism is awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Sociology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a engaging experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones's favoritism is confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Science could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about History, it was okay.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Music that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Economics, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Art, it was standard.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a engaging experience in Science.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Economics seems outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Miller's favoritism is awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Smith is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The facilities is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Philosophy, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Science, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could kill for a better facilities.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The grading in Science seems poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Psychology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Martinez's favoritism is irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I'm not sure about Economics, it was average.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The History could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "What the hell is wrong with Art?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "Professor Brown is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The homework is a pain in the ass.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The campus is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in History that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "If the parking doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I loved Math, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis's favoritism is confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "What the hell is wrong with Economics?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The cafeteria is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Art could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Math, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia's favoritism is disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Economics, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria needs attention, it's awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a wonderful experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Philosophy could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Economics, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about English, it was normal.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I could kill for a better gym.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The parking is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Philosophy, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm so tired of this bullshit classrooms.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I had a interesting experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a great experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The campus needs attention, it's poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Sociology could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The dorms is crap.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "This course is damn boring.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I loved Music, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Smith is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved History, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a great experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a fantastic experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Philosophy seems poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Psychology could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Philosophy could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Music, it was average.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Sociology, it was so amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The English could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Philosophy could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The facilities is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Music could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Music, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms needs attention, it's irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The labs needs attention, it's irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The campus is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking needs attention, it's confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Sociology, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a amazing experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Philosophy, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Math, it was so amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Music, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a amazing experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia's favoritism is frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I'm not sure about Philosophy, it was normal.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a wonderful experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown's favoritism is outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Martinez is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about History, it was mediocre.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Sociology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course is damn disappointing.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "There was an incident in Art that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Music, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Music, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Math seems disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I could kill for a better campus.",
+      "category": "Violent"
+    },
+    {
+      "comment": "Professor Garcia is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Economics that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a engaging experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Miller is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Philosophy that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Sociology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Martinez is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could kill for a better library.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The Sociology could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about English, it was normal.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The grading in History seems useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The parking is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Sociology could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Smith's favoritism is poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Davis is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "What the hell is wrong with Music?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The classrooms is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Sociology, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams's favoritism is confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Psychology, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Philosophy that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The parking is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Sociology seems terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The library needs attention, it's poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The library is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The labs is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Smith is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The English could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Sociology, it was so wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course is damn frustrating.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "Professor Martinez is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a fantastic experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria needs attention, it's disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved English, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Music, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "If the library doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I loved Sociology, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Math could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Science that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course is damn irrelevant.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "Professor Jones is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about History, it was acceptable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Sociology, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a great experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Math, it was so wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'll lose it if Williams doesn't explain better.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The English could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking needs attention, it's poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a excellent experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library needs attention, it's awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Economics that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I had a informative experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I had a excellent experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Math that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved History, it was so amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Smith is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Sociology seems useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The library is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Science.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The homework is a pain in the ass.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The grading in History seems terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The wifi needs attention, it's disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Smith's favoritism is terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Music could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Art could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Art, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "What the hell is wrong with History?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I loved Sociology, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Math, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The English could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Miller is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in Science.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "If the cafeteria doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "Professor Martinez's favoritism is irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a fantastic experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Music could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The dorms needs attention, it's frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Math, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking needs attention, it's poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Martinez is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Economics, it was so fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about History, it was decent.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Sociology could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis's favoritism is terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a inspiring experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs needs attention, it's outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Psychology could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The English could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The English could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could kill for a better parking.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The classrooms is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Science, it was normal.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Brown is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved History, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about English, it was mediocre.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The grading in English seems useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a fantastic experience in Music.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Philosophy seems useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Brown's favoritism is irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved English, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Philosophy, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "What the hell is wrong with History?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "What the hell is wrong with History?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The grading in Math seems awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a fun experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Miller is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a inspiring experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis's favoritism is disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The cafeteria is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a excellent experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Sociology could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The facilities is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Math, it was normal.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a excellent experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Math seems outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Davis is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Music, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Sociology, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Science seems disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Martinez is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones's favoritism is frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Davis is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved English, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Jones is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The homework is a pain in the ass.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "Professor Davis's favoritism is useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Rodriguez is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Sociology, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I had a engaging experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I had a engaging experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Psychology, it was typical.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a informative experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Psychology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The classrooms is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The library is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is frustrating.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The library needs attention, it's awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Sociology, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Davis is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could kill for a better wifi.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The Art could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved History, it was so fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Music could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Music, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym needs attention, it's irrelevant.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "Professor Brown is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is crap.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The Science could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a engaging experience in Sociology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fun experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Sociology seems poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Science that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "If the classrooms doesn't improve, I'm going to flip.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I could kill for a better labs.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The Music could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms needs attention, it's terrible.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Science, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Economics that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course is damn awful.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "There was an incident in English that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a engaging experience in English.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course makes me want to scream.",
+      "category": "Violent"
+    },
+    {
+      "comment": "I'm so tired of this bullshit wifi.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I loved Math, it was so excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "What the hell is wrong with English?",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The English could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Psychology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Garcia is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Science seems awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Williams's favoritism is poor.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Johnson is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "This course is damn terrible.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "This course is damn useless.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I had a fun experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Sociology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Economics could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about Science, it was standard.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The grading in Philosophy seems disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Psychology, it was so great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Art could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez's favoritism is outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Philosophy could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I could punch the wall after that lecture.",
+      "category": "Violent"
+    },
+    {
+      "comment": "The Math could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in English that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a fun experience in Psychology.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Williams is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Sociology that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The grading in Art seems disappointing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The parking is excellent.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Psychology, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in History that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The classrooms is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The cafeteria is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Math that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The grading in English seems useless.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The Math could be improved by updated materials.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Art seems confusing.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "There was an incident in Philosophy that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved History, it was so informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez is amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Smith is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Johnson is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Music could be improved by better resources.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez's favoritism is outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The gym is interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Art could be improved by clearer explanations.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs is crap.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "The grading in Psychology seems outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Rodriguez is fun.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Rodriguez's favoritism is boring.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "Professor Jones is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Martinez is informative.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The grading in Philosophy seems outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "The campus is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The History could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I'm not sure about History, it was fine.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course is damn confusing.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "I loved Sociology, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Brown is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The classrooms is fantastic.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Economics, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The wifi is wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a wonderful experience in Philosophy.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The English could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a interesting experience in History.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The parking is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a amazing experience in Economics.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Art, it was so inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus is great.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a great experience in Art.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Sociology, it was so wonderful.",
+      "category": "Safe"
+    },
+    {
+      "comment": "There was an incident in Economics that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Economics, it was so interesting.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I loved Sociology, it was so engaging.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The gym is inspiring.",
+      "category": "Safe"
+    },
+    {
+      "comment": "Professor Garcia's favoritism is awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I had a inspiring experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The labs needs attention, it's outdated.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "This course is damn terrible.",
+      "category": "Swearing"
+    },
+    {
+      "comment": "There was an incident in Math that made me uncomfortable.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Art, it was so amazing.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Psychology could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "I had a fantastic experience in Math.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Economics could be improved by more interactive activities.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The Sociology could be improved by more office hours.",
+      "category": "Safe"
+    },
+    {
+      "comment": "The campus needs attention, it's awful.",
+      "category": "Needs Review"
+    },
+    {
+      "comment": "I loved Art, it was so inspiring.",
+      "category": "Safe"
+    }
+  ]
+}

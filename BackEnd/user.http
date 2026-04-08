@@ -1,0 +1,42 @@
+### Use an existing user to login
+# curl -X POST -H "Content-Type: application/json" -d '{"username": "admin", "password": "123456"}' http://localhost:38080/login
+POST http://localhost:38080/api/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+### Create a new user
+# curl -X POST -H "Content-Type: application/json" -d '{"username": "user", "password": "123456"}' http://localhost:38080/user/add
+POST http://localhost:38080/user/add
+Content-Type: application/json
+
+{
+  "username": "user",
+  "password": "123456"
+}
+
+### Get all users
+# curl -X POST -H "Content-Type: application/json" -d '{"page": 1, "limit": 10}' http://localhost:38080/user
+POST http://localhost:38080/user
+Content-Type: application/json
+
+{
+  "page": 1,
+  "limit": 10
+}
+
+### Delete an existing user
+# curl -X POST -H "Content-Type: application/json" -d '{"id": "67ff6a825f5d861444ad2945"}' http://localhost:38080/user/delete
+POST http://localhost:38080/user/delete
+Content-Type: application/json
+
+{
+  "id": "67ff6a825f5d861444ad2945"
+}
+
+###
+
+

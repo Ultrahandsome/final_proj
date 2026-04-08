@@ -1,0 +1,40 @@
+version: "3.2"
+services:
+  mongodb:
+    image: mongo:6.0
+    ports:
+      - "27017:27017"
+    volumes:
+      - ~/tools/mongodb:/data/db:rw
+    networks:
+      - backend-network
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "38080:38080"
+    environment:
+      - MONGODB_URI=mongodb://mongodb:27017
+      - GRPC_URL=grpc-server:50051
+    depends_on:
+      - mongodb
+      - grpc-server
+    restart: unless-stopped
+    networks:
+      - backend-network
+  grpc-server:
+    build:
+      context: .
+      dockerfile: gRPCServer.Dockerfile
+    ports:
+      - "50051:50051"
+    restart: unless-stopped
+    networks:
+      - backend-network
+networks:
+  backend-network:
+    driver: bridge
+volumes:
+  mongodb_data_volume:
+    external: true

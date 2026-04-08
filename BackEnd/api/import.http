@@ -1,0 +1,35 @@
+### Import Excel XLSX file
+# curl -F "file=@../test/P14_commentsdata_sample_v1.xlsx" http://localhost:38080/api/upload/excel
+POST http://localhost:38080/api/upload/excel
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="P14_commentsdata_sample_v1.xlsx"
+
+< ../test/P14_commentsdata_sample_v1.xlsx
+--WebAppBoundary--
+
+### Import CSV file
+# curl -F "file=@../test/test_csv.csv" http://localhost:38080/api/upload/csv
+POST http://localhost:38080/api/upload/csv
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="test_csv.csv"
+
+< ../test/test_csv.csv
+--WebAppBoundary--
+
+### Import TSV file
+# curl -F "file=@../test/tsv.tsv" http://localhost:38080/api/upload/tsv
+POST http://localhost:38080/api/upload/tsv
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="test_tsv.tsv"
+
+< ../test/test_tsv.tsv
+--WebAppBoundary--
+
+###
+
