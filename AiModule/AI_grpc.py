@@ -16,7 +16,10 @@ from google.generativeai import GenerativeModel
 from sentence_transformers import SentenceTransformer
 
 # Configure Gemini model
-genai.configure(api_key="AIzaSyAWq584lfThByief9ZaH49YiXx2tmi1at0")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+if not GOOGLE_API_KEY:
+    raise RuntimeError("Missing GOOGLE_API_KEY environment variable")
+genai.configure(api_key=GOOGLE_API_KEY)
 # Note: Creating the model instance here isn't strictly necessary; we recreate it in the async function
 
 # Load FAISS index and embedding model
